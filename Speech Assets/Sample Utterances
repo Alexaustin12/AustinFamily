@@ -1,0 +1,12 @@
+choresTurnIntent whos turn is it to do the chores
+choresTurnIntent who should do the chores
+choresTurnIntent who should take out the trash
+choresTurnIntent who should clean up
+choresTurnIntent who should do the dishes
+choresTurnIntent who should cook dinner
+whoLivesAtIntent who lives at {householdName}
+whoLivesAtIntent who lives on {householdName}
+funFactIntent tell me a fact about {familyMemberName}
+funFactIntent fact about {familyMemberName}
+funFactIntent tell me something about {familyMemberName}
+funFactIntent tell me about {familyMemberName}
