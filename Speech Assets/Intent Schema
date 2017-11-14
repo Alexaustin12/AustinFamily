@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "intent": "choresTurnIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "householdName",
+          "type": "LIST_OF_HOUSEHOLDS"
+        }
+      ],
+      "intent": "whoLivesAtIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "familyMemberName",
+          "type": "LIST_OF_FAMILY_MEMBERS"
+        }
+      ],
+      "intent": "funFactIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
